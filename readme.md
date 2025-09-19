@@ -35,7 +35,7 @@ Visualização: evolução de G/A ao longo das partidas simuladas.
 
 1. Clonar o repositório
 
-git clone https://github.com/teu-user/neymar_ml.git
+git clone https://github.com/viniruggeri/neymar_ml.git
 cd neymar_ml
 
 2. Criar e ativar o ambiente
